@@ -50,6 +50,21 @@ footer {
   margin-bottom: 16px;
 }
 
+.sublogo {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--color-gray-500);
+}
+
+.person-name {
+  font-family: 'Raleway', sans-serif;
+  font-size: inherit;
+  font-weight: 700;
+  color: var(--color-gray-300);
+}
+
 .legal {
   margin-top: auto;
 }
