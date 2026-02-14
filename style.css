@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 html {
@@ -26,7 +26,6 @@ body {
 }
 
 .bottom-wrapper {
-  font-family: 'Raleway', sans-serif;
   background: var(--color-gray-1000);
   color: var(--color-gray-100);
   padding: 64px 32px;
