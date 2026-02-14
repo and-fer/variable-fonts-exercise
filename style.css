@@ -26,6 +26,7 @@ body {
 }
 
 .bottom-wrapper {
+  font-family: 'Raleway', sans-serif;
   background: var(--color-gray-1000);
   color: var(--color-gray-100);
   padding: 64px 32px;
@@ -59,7 +60,6 @@ footer {
 }
 
 .person-name {
-  font-family: 'Raleway', sans-serif;
   font-size: inherit;
   font-weight: 700;
   color: var(--color-gray-300);
@@ -67,6 +67,9 @@ footer {
 
 .legal {
   margin-top: auto;
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--color-gray-700);
 }
 
 .links {
